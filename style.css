@@ -10,11 +10,6 @@
     --side-color: #084c08;
     --alt-color: #084c61;
 
-    /**** Transitions ****/
-    --base-transition: none;
-    --fast-transition: none;
-    --base-enabled: all 0.3s ease-out;
-    --fast-enabled: all 0.15s ease-out;
 }
 
 html {
